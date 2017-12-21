@@ -1,7 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -419,14 +421,6 @@ h6,
 #header1-1 .mbr-section-title SPAN {
   font-size: 30px;
 }
-#header3-3 .mbr-section-title,
-#header3-3 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-3 .mbr-section-title {
-  font-size: 12px;
-  color: #ffffff;
-}
 #menu-5 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -488,4 +482,12 @@ h6,
 #menu-5 .link[aria-expanded="true"],
 #menu-5 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#msg-box2-6 .mbr-section-title {
+  color: #fff;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+}
+#msg-box2-6 .mbr-section-subtitle {
+  color: #a0a0a0;
 }
