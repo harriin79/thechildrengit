@@ -171,12 +171,15 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#000000",
-              "font-size": "20px",
+              "font-size": "12px",
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".mbr-section-subtitle": {
               "color": "#a0a0a0"
+            },
+            ".btn": {
+              "font-size": "10px"
             }
           },
           "_params": {
