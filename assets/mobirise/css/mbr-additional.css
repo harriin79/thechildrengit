@@ -478,3 +478,10 @@ h6,
 #menu-2 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header3-3 .mbr-section-title,
+#header3-3 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3 .mbr-section-title {
+  font-size: 15px;
+}
